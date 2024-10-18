@@ -1,0 +1,6 @@
+*/.vscode/
+*/__pycache__/
+spectrogramxApp/samples/
+/home/sdhungel/AML-spec/IMI/samples
+/home/sdhungel/AML-spec/srsRAN_4G
+/home/sdhungel/AML-spec/TRACTOR

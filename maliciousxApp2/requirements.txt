@@ -1,0 +1,6 @@
+pysctp
+matplotlib
+numpy
+Pillow
+tensorflow
+ricsdl

@@ -1,0 +1,3 @@
+[submodule "ric-plt-dbaas"]
+	path = ric-plt-dbaas
+	url = https://github.com/o-ran-sc/ric-plt-dbaas
